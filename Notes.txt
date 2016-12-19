@@ -1,0 +1,5 @@
+1. How to come up with greedy algorithm:
+
+http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm
+Problem: Cforces contest 380 div2 D
+
